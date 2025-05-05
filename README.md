@@ -1,32 +1,18 @@
-# Selenium Java Automation Project
+## Getting Started
 
-This repository contains a collection of beginner to advanced test scripts written in **Java** using **Selenium WebDriver**. The project is designed to help new QA engineers learn practical test automation.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## ✅ Tools Used
+## Folder Structure
 
-- Java
-- Selenium WebDriver
-- ChromeDriver
-- Visual Studio Code or IntelliJ
-- Git & GitHub
+The workspace contains two folders by default, where:
 
-## 📂 Folder Structure
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-- `/src/basic/` — Simple tests like login, page load, checkbox, radio button.
-- `/src/advanced/` — Complex interactions like multi-window, calendar picker, hover.
-- `/drivers/` — ChromeDriver executable (ensure your path is configured).
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-## 🚀 How to Run
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-1. Install Java JDK 17+
-2. Add ChromeDriver to your system or keep it in `/drivers`
-3. Open in VS Code or IntelliJ
-4. Run each `.java` file using `Run` or from terminal using `javac` and `java`.
+## Dependency Management
 
-## ✨ Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss.
-
----
-
-**Created for practice and portfolio by [Your Name]**
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
